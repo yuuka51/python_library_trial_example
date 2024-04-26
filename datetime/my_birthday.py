@@ -45,7 +45,6 @@ def main():
     print("何日生まれですか？")
     day = int(input())
     my_birthday(datetime(year, month, day))
-    my_birthday(datetime(1997, 3, 15))
 
 
 if __name__ == "__main__":
