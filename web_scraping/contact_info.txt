@@ -1,0 +1,25 @@
+Amsterdam, the Netherlands:amsterdam@pyladies.com
+Ankara, Turkey:ankara@pyladies.com
+Antananarivo, MDG:tnr@pyladies.com
+Aracati, Brazil:aracati@pyladies.com
+Arequipa, Peru:aqp@pyladies.com
+Atlanta, GA:atl@pyladies.com
+Austin, TX:atx@pyladies.com
+Australia:australia@pyladies.com
+Bangalore, India:pyblr@pyladies.com
+Bauchi, NG:bauchi@pyladies.com
+Belem, Brazil:belem@pyladies.com
+Belo Horizonte, Brazil:bh@pyladies.com
+Berlin, Germany:berlin@pyladies.com
+Bhubaneswar, India:bbsr@pyladies.com
+Blumenau, Brazil:blumenau@pyladies.com
+Boulder, CO:boulder@pyladies.com
+Boston, MA:boston@pyladies.com
+Bratislava, Slovakia:bratislava@pyladies.org
+Brazil:brazil@pyladies.com
+Brisbane, Australia:brisbane@pyladies.com
+Brno, Czech Republic:brno@pyladies.com
+Calgary, Alberta, Canada:calgary@pyladies.com
+Campinas, Brazil:campinas@pyladies.com
+Canakkale, Turkey:tr@pyladies.com
+Caxias do Sul, Brazil:caxiasdosul@pyladies.com
